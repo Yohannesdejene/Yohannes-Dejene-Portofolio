@@ -4,7 +4,7 @@ This is a personal portfolio website created using Next.js, ShadCN UI, and Tailw
 
 ## Demo
 
-You can view the live site [here](https://ssahibsingh.github.io/)
+You can view the live site [here](https://yohannesdejene.vercel.app/)
 
 ## 🛠️ Built With
 
@@ -22,7 +22,7 @@ You can view the live site [here](https://ssahibsingh.github.io/)
 Fork the repository. then clone the repo locally by doing -
 
 ```bash
-git clone git@github.com:Yohannesdejene/Personal-Portofolio-website-.git
+git clone git@github.com:Yohannesdejene/Yohannes-Dejene-Portofolio.git
 ```
 
 
