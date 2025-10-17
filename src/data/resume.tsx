@@ -218,7 +218,7 @@ export const DATA = {
       dates: "Nov 2023 - Present",
       active: true,
       description:
-        "Maintained and optimized a sophisticated delivery management system tailored for a logistics company, featuring real-time tracking, automated route optimization, and comprehensive analytics. Developed a mobile-responsive dashboard using React.js and CodeUi, to enable seamless monitoring of delivery operations, driver performance, and shipment statuses. Implemented advanced features such as live GPS tracking, automated delivery scheduling, and real-time notifications, enhancing operational efficiency and providing actionable insights for logistics managers and clients.",
+        "Maintained and optimized a sophisticated delivery management system tailored for a logistics company, featuring real-time tracking, and comprehensive analytics. Developed a mobile-responsive dashboard using React.js and CodeUi, to enable seamless monitoring of delivery operations, driver performance, and shipment statuses. Implemented advanced features such as live GPS tracking, automated delivery scheduling, and real-time notifications, enhancing operational efficiency and providing actionable insights for logistics managers and clients.",
       technologies: ["React.js", "Bootstrap", "CoreUi"],
       links: [
         {
@@ -300,7 +300,7 @@ export const DATA = {
       dates: "Dec 2024 -May 2025 ",
       active: true,
       description:
-        "Independently developed a modern school management system to overhaul the outdated infrastructure of my former high school, streamlining the entire school operation process. Designed a responsive, intuitive interface using Next.js, Tailwind CSS, and Material UI to provide a seamless experience for administrators, teachers, students, and parents across devices. Implemented key features including student enrollment, attendance tracking, grade management, timetable scheduling, homework and exam management, and real-time notifications for announcements and updates. Built a robust back-end with Express.js, integrated with PostgreSQL and Neon DB for efficient and secure data management, enabling real-time data access and analytics. Improved administrative efficiency by 35% and enhanced user engagement through optimized workflows and a user-friendly interface.",
+        "Developed a modern school management system with intention to update the outdated infrastructure of my former high school, streamlining the entire school operation process. Designed a responsive, intuitive interface using Next.js, Tailwind CSS, and Material UI to provide a seamless experience for administrators, teachers, students, and parents across devices. Implemented key features including student enrollment, attendance tracking, grade management, timetable scheduling, homework and exam management, and real-time notifications for announcements and updates. Built a robust back-end with Express.js, integrated with PostgreSQL and Neon DB for efficient and secure data management, enabling real-time data access and analytics. Improved administrative efficiency by 35% and enhanced user engagement through optimized workflows and a user-friendly interface.",
       technologies: ["React.js", "Bootstrap", "Express.js", "PostgreSQL"],
       links: [
         {
